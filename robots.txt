@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leg10ner.github.io/resources-cfm2hn/sitemap.xml
